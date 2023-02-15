@@ -1,10 +1,10 @@
-#actor,#qoutes{
-	margin :20px 0px;
+#actor,#qoute {
+	margin: 20px 0px;
 	padding:20px;
-	background-colour : #e7e7;
-	colour : blue;
+	background-color:gray;
+	color: blue ;
 }
-.footer{
-	background-colour: black;
-	colour:white;
+footer{
+	background-color: black;
+	color:white;
 }
